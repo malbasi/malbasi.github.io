@@ -134,6 +134,10 @@ sub-font
 
 
 
+a:link {color: #268bd2; text-decoration: underline; }
+a:active {color: #d26c3d; text-decoration: underline; }
+a:visited {color: #dbd7ad; text-decoration: underline; }
+a:hover {color: #d26c3d; text-decoration: none; }
 
 
 
