@@ -8,12 +8,12 @@ body {
 
 /* choose a light or dark theme to add to the body tag. */
 .dark-theme {
-    background-color: #181414;
+    background-color: #606060;
     color: #fcfbfb;   
 }
 .light-theme {
-    background-color: white;
-    color: black;    
+    background-color: #fff9eb;
+    color: #657b83;    
 }
 
 .container {
@@ -46,10 +46,10 @@ sub-font
 
 
 .super-font {
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Futura Condensed', sans-serif;
 }
 .sub-font {
-    font-family: 'Lora', serif;
+    font-family: 'Minion', serif;
 }
 
 
